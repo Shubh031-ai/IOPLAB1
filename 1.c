@@ -16,6 +16,4 @@ int main()
     si = principal_amt * rate * time * 0.01;
 
     printf("Simple interest is: %f\n", si);
-
-    return 0;
 }
